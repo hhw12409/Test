@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 edited in local2
 remote edited
+=======
+edited in local22
+local
+>>>>>>> 3ba711a (local change)
